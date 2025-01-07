@@ -133,3 +133,23 @@ Berikut adalah program sederhana yang sudah saya buat sesuai dengan persyaratan 
 2. Masukkan Nama: Amelia Nurmala Dewi
 3. Masukkan Nilai: 85
 Program akan menyimpan data dan bisa ditampilkan dalam bentuk tabel."
+
+
+## Input 
+
+![Screenshot (206)](https://github.com/user-attachments/assets/776db6a5-2f9e-49cd-979e-11fbe457b935)
+![Screenshot (207)](https://github.com/user-attachments/assets/182f1689-72f3-4413-84f2-a7ee6d4f5b04)
+![Screenshot (208)](https://github.com/user-attachments/assets/2f71fdf9-9c55-433c-b192-025089965d1d)
+![Screenshot (209)](https://github.com/user-attachments/assets/d75840b2-1b64-48f1-bf5b-880ad5969ff3)
+
+
+## Output
+
+![Screenshot (204)](https://github.com/user-attachments/assets/081b1357-620a-416c-9b9b-dba7ea6ba74b)
+![Screenshot (205)](https://github.com/user-attachments/assets/bae7e683-22b6-4aac-a6d2-2d0e0b436245)
+
+
+
+
+
+
