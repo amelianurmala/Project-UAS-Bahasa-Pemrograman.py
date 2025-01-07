@@ -4,7 +4,7 @@
 ## Kelas  : TI.24.A2
 ## NIM    : 312410199
 
-Berikut adalah program sederhana sesuai dengan persyaratan yang ditunjukkan pada soal. Persyaratan tersebut menentukan pembuatan program dengan konsep modular dan OOP, dengan validasi input dan tampilan output. 
+Berikut adalah program sederhana yang sudah saya buat sesuai dengan persyaratan yang ditunjukkan pada soal. Persyaratan tersebut menentukan pembuatan program dengan konsep modular dan OOP, dengan validasi input dan tampilan output. 
 
 *1. Class StudentData:*
 
